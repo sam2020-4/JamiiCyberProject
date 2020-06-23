@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    background-image: url('../images/milky-way-starry-sky-night-sky-star-956981.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    overflow: hidden;
+    background-color: aqua;
+    padding: 10px 10px;
+}
+
+.nav{
+
+}
